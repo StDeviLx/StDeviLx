@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @StDeviLx
+- 👋 Hi, I’m @StDeviL
 - 🌱 I’m currently alive.
